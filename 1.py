@@ -44,3 +44,4 @@ inputcase= [
             [0, 0, 0, 0, 0, 0, 0],
         ]
 finalwhitepatches(inputcase)
+# output for above inputcase is [[0, 1, 1, 5], [3, 1, 4, 5]]
